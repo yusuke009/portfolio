@@ -248,3 +248,25 @@ footer small {
     text-decoration-color: #666666;
 }
 
+.skill-content {
+    clear: both;
+    width: 960px;
+    margin: 20px auto;
+
+
+    background-color: aqua;
+}
+
+.skill-content img {
+    width: 20%;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.skill-content p {
+    float: right;
+    width: 600px;
+    margin: auto;
+    background-color: #dcdcdc
+}
+
