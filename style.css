@@ -263,10 +263,21 @@ footer small {
     margin-top: 10px;
 }
 
-.skill-content p {
+.skill-content2 {
     float: right;
-    width: 600px;
-    margin: auto;
-    background-color: #dcdcdc
 }
 
+
+.skill-content2 h2 {
+    width: 600px;
+}
+
+.skill-content2 p {
+    width: 600px;
+
+}
+
+.skill-content2 span {
+    background: linear-gradient(transparent 50%, yellow 50%);
+
+}
