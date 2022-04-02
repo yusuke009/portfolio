@@ -239,6 +239,7 @@ footer small {
     float: right;
     width: 400px;
     margin: 30px;
+    margin-bottom: 120px;
 }
 
 #midashi2 {
@@ -252,9 +253,6 @@ footer small {
     clear: both;
     width: 960px;
     margin: 20px auto;
-
-
-    background-color: aqua;
 }
 
 .skill-content img {
