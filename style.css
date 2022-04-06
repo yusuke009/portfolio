@@ -279,3 +279,29 @@ footer small {
     background: linear-gradient(transparent 50%, yellow 50%);
 
 }
+
+.midashi2 h2 {
+    border-bottom: 4px solid #666666;
+}
+
+.works-text {
+    width: 960px;
+    margin: 100px auto;
+}
+
+.works-img {
+    width: 400px;
+}
+
+.works-img img {
+    width: 80%;
+}
+
+.works-cont1 {
+    clear: both;
+}
+
+.works-cont2 {
+    display: flex;
+    justify-content: space-between;
+}
